@@ -1,0 +1,17 @@
+﻿@model List<testproject.Models.TestViewModel>
+
+
+
+<h1>This is the Index page !!</h1>
+
+
+<ul>
+
+    @foreach(var item in Model)
+    {
+        <li>Listed item: @item.FoodItem</li>
+
+    }
+</ul>
+
+@*<h2>A test food item is @Model.FoodItem</h2>*@
