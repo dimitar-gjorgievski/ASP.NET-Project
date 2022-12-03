@@ -1,3 +1,1 @@
-# Pizza-Project-Work-in-Progress
-
-ASP.NET MVC Project in C#.
+# ASP.NET MVC Project in C#.
